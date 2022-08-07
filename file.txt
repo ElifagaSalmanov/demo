@@ -1,327 +1,189 @@
-python : 228
-django : 135
-javascript : 94
-git : 64
-database : 56
-debugging : 55
-sql : 50
-mysql : 48
-html5 : 48
-security : 44
-rest : 44
-linux : 36
-mongodb : 33
-css : 32
-html : 31
-docker : 30
-mobile : 28
-api : 28
-postgresql : 27
-machine learning : 26
-svn : 26
-java : 26
-c : 25
-storage : 24
-json : 23
-jquery : 23
-team player : 23
-algorithms : 23
-nosql : 22
-devops : 21
-xml : 19
-problem solving : 19
-rest api : 16
-data structures : 16
-infrastructure : 15
-security compliance : 14
-oops : 14
-github : 13
-Python : 13
-oop : 12
-bootstrap : 11
-soap : 11
-web developer : 11
-c# : 11
-multithreading : 10
-software engineering : 10
-opencv : 9
-web technologies : 9
-apache : 9
-shell scripting : 8
-tornado : 8
-mvc : 8
-web development : 7
-unix  /  linux : 7
-big data : 7
-artificial intelligence : 7
-ajax : 7
-written communication : 7
-fundamentals : 7
-hadoop : 7
-node.js : 7
-scala : 7
-perl : 7
-angularjs : 7
-Django : 7
-cloud services : 6
-information technology : 6
-middleware : 6
-.net : 6
-oracle : 6
-windows : 6
-image processing : 5
-software engineer : 5
-sql database : 5
-cloud computing : 5
-AWS : 5
-rdbms : 4
-san : 4
-object oriented programming : 4
-data mining : 4
-natural language processing : 4
-coding : 4
- : 4
-messaging : 4
-forms : 4
-technical skills : 4
-python scripting : 3
-bug fixing : 3
-web programming : 3
-couchdb : 3
-openerp : 3
-hive : 3
-php : 3
-software design : 3
-unix : 3
-soa : 3
-bi : 3
-Data Science : 3
-Matplotlib : 3
-GIT : 3
-Pandas : 3
-Numpy : 3
-python programmer : 3
-software development : 3
-web application : 3
-react.js : 3
-software developer : 3
-testing tools : 3
-spring boot : 3
-network programming : 2
-hosting : 2
-heroku : 2
-cloud storage : 2
-sybase : 2
-autosys : 2
-unix shell scripting : 2
-solaris : 2
-teamcity : 2
-zope : 2
-web based applications : 2
-senior software developer : 2
-xpath : 2
-perl scripting : 2
-elastic search : 2
-os : 2
-websphere : 2
-socket programming : 2
-database management : 2
-message queue : 2
-microsoft azure : 2
-telecom : 2
-database handling : 2
-vb : 2
-oracle 11g : 2
-database programming : 2
-crm : 2
-design patterns : 2
-information retrieval : 2
-testing : 2
-system analysis : 2
-Machine Learning : 2
-Java : 2
-aws : 2
-erp : 2
-Backend Developer : 2
-product development : 2
-threading : 2
-python developer : 2
-groovy : 2
-ubuntu : 2
-HTTP : 2
-REST : 2
-JavaScript : 2
-research : 1
-Pattern Recognition : 1
-Image Processing : 1
-Digital Image : 1
-Signal Processing : 1
-Electronic Circuits : 1
-Network Analysis : 1
-ksh : 1
-sockets : 1
-framework : 1
-jpa : 1
-hibernate : 1
-web services : 1
-consultant : 1
-data extraction : 1
-impala : 1
-database development : 1
-fx : 1
-hbase : 1
-Object Relational Mapper : 1
-ds : 1
-couchbase : 1
-iam : 1
-entry level : 1
-system management : 1
-servicenow : 1
-database application : 1
-business applications : 1
-application development : 1
-Python2 : 1
-developing programs : 1
-it skills : 1
-tcpdump : 1
-iptv : 1
-satellite : 1
-application support : 1
-project delivery : 1
-spring : 1
-user interaction : 1
-software testing : 1
-triggers : 1
-data warehousing : 1
-virtual reality : 1
-augmented reality : 1
-user documentation : 1
-telecom bss : 1
-pattern recognition : 1
-ooad : 1
-linux scripting : 1
-telecommunication : 1
-technical  skills : 1
-pl  /  sql : 1
-web application server : 1
-mining : 1
-website development : 1
-protocol testing : 1
-system development : 1
-gateway : 1
-brio : 1
-visual source safe : 1
-ant : 1
-cache : 1
-nextgen : 1
-nist : 1
-ruby : 1
-c   programming : 1
-operating system : 1
-sharepoint : 1
-pig : 1
-sas : 1
-cassandra : 1
-arcgis : 1
-management systems : 1
-business objects : 1
-d3.js : 1
-ioc : 1
-technology consulting : 1
-lamp : 1
-pgsql : 1
-software delivery : 1
-vb.net : 1
-compilers : 1
-mvc architecture : 1
-visual studio : 1
-identity management : 1
-data quality : 1
-data transformation : 1
-data integration : 1
-openstack : 1
-server management : 1
-unit testing : 1
-production support : 1
-machinelearning : 1
-software development life cycle : 1
-agile : 1
-programmer analyst : 1
-procedures : 1
-writing : 1
-data analysis : 1
-business requirements : 1
-business solutions : 1
-dashboards : 1
-esxi : 1
-virtualization : 1
-vmware : 1
-vcenter : 1
-ux : 1
-ux designer : 1
-photoshop : 1
-designing : 1
-illustrator : 1
-Javascript : 1
-Html : 1
-MS SQL Server : 1
-Github : 1
-Artificial Inteligence : 1
-Computer Vision : 1
-Web Developing : 1
-Deep Learning : 1
-Sql : 1
-Oracle : 1
-CSS : 1
-HTML : 1
-Angular : 1
-API designs : 1
-frameworks : 1
-ECS : 1
-SNS : 1
-S3 : 1
-RDS : 1
-AngularJS : 1
-developer : 1
-Ahmedabad : 1
-software : 1
-writing code : 1
-automating test : 1
-IT : 1
-core python : 1
-React : 1
-Saas : 1
-Machine learning : 1
-RDBMS : 1
-STLC : 1
-c ++ : 1
-JAVA : 1
-open source : 1
-API : 1
-postgres : 1
-SQL : 1
-Shell : 1
-Web Technologies : 1
-Http : 1
-Python Scripting : 1
-Spark : 1
-Azure databricks : 1
-technical and development : 1
-developing application : 1
-splunk : 1
-Web development : 1
-Quality : 1
-Stakeholder Management : 1
-Postgres : 1
-DynamoDB : 1
-Docker : 1
-junit : 1
-linux operating system : 1
-orchestration : 1
-system administration : 1
-java developer : 1
-web environments : 1
-APIDesign : 1
-WebSockets : 1
-Python frameworks : 1
-AngularJS framework : 1
+Bir zaman makinen olsa hangi zaman dönemine giderdin?
+Hiç hipnotize edildin mi?
+Kime oy verdin? ...
+Zeka ve güzellik arasında bir seçim yapmak zorunda kalsan neyi seçerdin?
+Daha önce sana verilmiş en kötü hediye nedir?
+Hayatın film olsa seni kim oynardı?
+iç yakın arkadaşının sevgilisinden hoşlandığın oldu mu?
+Okuldan biriyle çıkmak istesen bu kim olurdu?
+Senden yaşça çok büyük birine aşık olduğun oldu mu?
+Bugüne kadar yaşadığın en kötü öpüşme deneyimi hangisiydi?
+Telefonunda en son aradığın şey neydi?
+Birisi kız arkadaşın / erkek arkadaşından ayrılmak için sana 1 milyon tl önerseydi, yapar mıydın?
+Bu odadaki en az kimi seviyorsun ve neden?
+Büyürken hayali bir arkadaşınız var mıydı?
+Hiç sınıfta yüksek sesle genirdin mi?
+Burnunu karıştırır mısın?
+Yerden bir şeyi alıp hiç yedin mi?
+Bu odada en kötü giyinen kişi kimdir?
+Hiç üzerine işedin mi?
+Yılan, kurbağa gibi şeylerden yemek zorunda kaldın mı?
+Bir gün karşı cins olarak uyanırsan, ilk yapacağın şey nedir?
+Hiç havuzda işedin mi?
+Sence bu odadaki en kötü giyinen kişi kimdir?
+Asansörde hiç gaz kaçırdın mı?
+Tuvalette otururken aklınıza gelen şeyler nelerdir?
+En kötü alışkanlığınız nedir?
+Banyoda şarkı söyler misin?
+Toplumda en utanç verici anınız neydi?
+Aynada kendinle hiç konuştun mu?
+Web geçmişinizi, birileri görürse utanacağınız şey ne olurdu?
+Uykunda konuşur musun?
+Gizli aşkın kim?
+Benim hakkımda neyi sevmiyorsun?
+Şu an ne renk iç çamaşır giyiyorsun?
+Son attığın mesaj neydi?
+İnsanları yanan bir binadan kurtarıyor olsaydınız ve bir kişiyi bu odadan geride bırakmak zorunda kalırsanız, kim olurdu?
+Bir zaman makinen olsa hangi zaman dönemine giderdin?
+Hiç hipnotize edildin mi?
+Kime oy verdin? ...
+Zeka ve güzellik arasında bir seçim yapmak zorunda kalsan neyi seçerdin?
+Daha önce sana verilmiş en kötü hediye nedir?
+Hayatın film olsa seni kim oynardı?
+Bu odada en az kimden hoşlanıyorsun ve neden?
+Hayalindeki erkek/kız nasıl birisi?
+Duşta söylediğin popüler şarkın hangisi?
+Bu odadaki en seksi kişi sence kim?
+Benim hakkımda nelerden hoşlanmıyor musun?
+Şu an hangi renk iç çamaşırı giyiyorsun?
+Son attığın mesaj neydi?
+İç çamaşırlarını ne sıklıkla yıkıyorsun?
+Hiç kulak kiri tattın mı?
+Hiç osurup başka birini suçladın mı?
+Hiç terinin tadına baktın mı?
+Bu odadaki kim bugüne kadarki en kötü insan olurdu? Neden?
+Yeniden doğmuş olsaydın, hangi yüz yılda doğmak isterdin?
+Söylediğiniz veya yaptığınız bir şeyi silmek için zamanda geriye gidebilseydiniz, bu ne olurdu?
+Erkek arkadaşın veya kız arkadaşın seni hiç utandırdı mı?
+Birdenbire görünmez olsaydın ne yapardın?
+Banyoda kaldığınız en uzun süre nedir ve neden bu kadar uzun süre kaldınız?
+Şimdiye kadar gördüğüm en garip rüyayı anlat.
+Duşta işiyor musun?
+Hala yaptığın en çocukça şey nedir?
+Hangi çocuk filmini tekrar tekrar izleyebilirsin?
+Ayak kokunuz kötü mü?
+Saçma takma adların var mı?
+Telefonunuzda hangi uygulamada en çok zaman harcıyorsunuz?
+Tek bir oturuşta yediğin en çok yemek ne?
+Tek başınayken dans ediyor musun?
+Karanlıktan korkar mısın?
+Bütün gün evdeysen ne yapardın?
+Günde kaç öz çekim yapıyorsunuz?
+En son ne zaman dişlerini fırçaladın?
+En sevdiğin pijamalar neye benziyor?
+Hiç yerden bir şey yedin mi?
+Yapmaman gereken bir şeyi yaparken hiç yakalandın mı?
+Vücudunun hangi bölümünü seviyorsun, hangi kısmından nefret ediyorsun?
+Hiç bitlendin mi?
+Pantolonunu hiç kestin mi?
+Tabağını yalıyor musun?
+Kimsenin senin hakkında bilmediği bir şey nedir?
+Hiç tabağını yaladın mı?
+Dirseğini yalayabilir misin?
+Eğer buradaki herkesi yanan bir binadan kurtarmaya çalışıyor olsaydın ve birini geride bırakmak zorunda kalırsan, kimi geride bırakırdın?
+Telefonda aradığın son şey neydi?
+Hiç asansörde gaz kaçırdın mı?
+Bir günlüğüne karşı cins olsan ne yapardın?
+Banyodayken yanlışlıkla hiç kimse içeri girdi mi?
+Hayatınızda bir şey değiştirebilseydiniz, ne olurdu?
+En büyük pişmanlığın nedir?
+Telefonunuzdaki en utanç verici fotoğraf hangisidir?
+Kimsenin bulamadığı kötü bir şey yaptınız mı?
+Sahip olduğunuz en iğrenç alışkanlık nedir?
+Hiç kimseye söylemediğin bir sırrın var mı?
+Şimdiye kadar gördüğünüz en korkunç rüya nedir?
+Çorabını değiştirirken ayağını koklar mısın?
+Eğer herhangi bir tür hayvan olabilseydin, ne yapardın?
+Karanlıktan korkar mısın?
+Hiç yaşınız hakkında yalan söylediniz mi?
+En son ne zaman dişlerini fırçaladın?
+Kimsenin senin hakkında bilmediği bir şey nedir?
+Bir ilişkinizdeki en büyük korkunuz nedir?
+En komik ilk randevunuz neydi?
+En garip alışkanlığın nedir?
+Kaç tane çocuk sahibi olmak istersiniz?
+Hakkınızda bilmem gereken utanç verici bir gerçek nedir?
+Çocukluktaki lakabın neydi?
+En sevdiğiniz yemek nedir?
+En sevdiğiniz renkleriniz nedir ve neden?
+Hayalindeki meslek ne?
+Bir adada 3 gün sıkışıp kalırsan, ne yaparsın?
+En sevdiğiniz kişi kimlerdir ve neden?
+Tuvalet kağıdınızı ruloya nasıl koyarsınız?
+İlk görüşte aşka inanır mısın?
+Aşka inanıyor musunuz?
+Hayalinizdeki düğün nedir?
+Şansınız olursa hangi ülkede yaşamak istersiniz?
+En çok neyi hayal ediyorsun?
+Şimdiye dek yaşadığınız en garip rüyayı açıklayabilir misiniz?
+En büyük pişmanlığın nedir?
+Beni seviyor musun?
+Kızlara Sormak için Doğruluk Soruları
+Bunlar bir kıza sormanız gereken doğruluk mu cesaret mi soruları:
+Saçını yıkamadan en uzun ne kadar süre bekledin?
+Herhangi bir ünlü ile evlenseydin, kim olurdu?
+Kaç tane erkek arkadaşın 0ldu?
+Sizden en az 10 yaş büyük bir kişiye hiç aşık oldunuz mu?
+Şu an kiminle çıkıyorsun?
+Sevdiğiniz birinin önünde söylediğiniz veya yaptığınız en utanç verici şey nedir?
+Vücudunun hangi bölümünü seviyorsun, hangi kısmından nefret ediyorsun?
+Hayran olduğun ünlü kim?
+Bu odadaki biriyle bir dans gösterisi yapmak zorunda olsaydın, kimi seçerdin?
+Hayallerinizdeki insanla evleneceksin denilse, telefonsuz bir yıl geçirir miydiniz?
+Hayatınızın geri kalanında sadece tek bir saç modeli yapabilseydin, kıvırcık saçları mı yoksa düz saçları mı seçerdin?
+Hayatının sonuna kadar bir makyaj eşyası kullanmaman söylense hangisini seçerdin?
+Senden daha kısa biriyle çıkar mısın?
+Vücudunuzla ilgili bir şeyi değiştirebilseydin, bu ne olurdu?
+Okulunda başka bir kız olsaydın kim olurdun?
+Aynada kendine hayran hayran bakar mısın?
+Sevgilinle ilgili yaptığın en utanç verici şey nedir?
+Hiç amigo olmak istedin mi?
+Sınıfımızdaki en iyi 5 erkek kim? Onları sırala.
+Gelecekte kaç çocuk sahibi olmak istersiniz?
+En çok kimden nefret ediyorsun?
+Ünlü biriyle çıkabilseydin, kim olurdu?
+Issız bir adada okulumuzdan kimin mahsur kalmasını isterdiniz?
+Hiç terk edildin mi? Bunun nedeni neydi?
+Yapabilseydin kendin üzerinde değiştirebileceğin bir fiziksel özellik nedir?
+Şişman olmadan istediğin bir şeyi yiyebilseydin, bu yemek ne olurdu?
+Erkeklere doğruluk mu cesaretlik mi sorusu sormak istiyorsanız bunlar tam size göre:
+Eğer görünmez olsaydın, bu odadan kimi gözetlemek isterdin?
+Okulumuzun (iş yerinin) en popüler 5 kızını sayar mısın?
+Bu odada kiminle çıkmak isterdin?
+Vücudunun en beğendiğin yeri neresidir?
+En son ne zaman aynaya baktın?
+Sevgiline hiç yalan söyledin mi?
+Senden daha yaşlı bir kadınla çıkar mısın?
+En son ne zaman ağladın?
+Sarışın mı seversin esmer mi?
+Ailen kız arkadaşından nefret ederse, onu terk eder miydin?
+Kız arkadaşın en iyi arkadaşından nefret ederse ne yapardın?
+Steroid kullandın mı?
+Kimi kıskanıyorsun?
+Sizce grubumuzdaki en çok sevilen kişi kim?
+Hiç bir kız tarafından ret edildin mi?
+Fakir ve akıllı olmak mı ya da zengin ve dilsiz olmak mı? Hangisini seçerdin?
+Eşine hiç yalan söyledin mi?
+Hiç yaşın hakkında yalan söyledin mi?
+Hiç ilk görüşte aşık oldun mu? Kimdi?
+Sevmediğin bir kız sana aşık olsaydı, ona ne söyler nasıl davranırdın?
+Sevdiğin ama açılamadığın kişinin başka birini sevdiğini öğrensen ne yapardın?
+Arkadaşlığınızı Test Edebileceğiniz Sorular
+Hiç arkadaşının sırrını başkasıyla paylaştın mı?
+Benim mesajımı hiç görmezden geldin mi. Neden bunu yaptın?
+Hiç en iyi arkadaşına yalan söyledin mi?
+En iyi 2 arkadaşın arasında seçim yapsan hangisini seçerdin?
+En iyi arkadaşının en sevmediğin huyu nedir?
+Sevdiğin ama açılamadığın kişi sana en yakın arkadaşını sevdiğini söylese ne yapardın?
+Arkadaşının sevgilisini aldattığını bilseydin ne yapardın?
+Kendini daha iyi biri gibi göstermek için en iyi arkadaşın hakkında yalan söyledin mi?
+Kim daha güzel/yakışıklı? Sen mi (odadaki herhangi biri)……. mı?
+[Oyundaki herhangi biri] hakkındaki ilk izleniminiz neydi?
+Odadaki herkese 1'den 10'a kadar puan verin, 10'u en sıcak olanı; 1 ise en kötü ve soğuk olanı.
+Bir diş fırçasını en iyi arkadaşınla paylaşır mısın?
+Arkadaşın onun için yalan söylemeni istedi ve başının derde gireceğini biliyor olsaydın yine de söyler miydin?
+Okuldaki en popüler kız/erkek sen olsaydın arkadaşlarından vazgeçer misin?
+Biri size en iyi arkadaşınızın nasıl olduğunu sorduğunda, onu nasıl anlatırdın?
+Bir tatil kazansan ve iki kişi getirmenize izin verilse aramızdan kimleri seçerdin?
+Saklamanız söylendiği bir sırrı hiç anlattınız mı?
+Sevgilin ve en iyi dostum göle düşse önce hangisini kurtarırsın?
